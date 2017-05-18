@@ -16,3 +16,4 @@ Aceto code examples. Pull requests welcome!
 - manual_mult.act: Multiply two numbers without using multiplication
 - oddeven.act: [Print 1 for odd numbers, 0 for even ones](https://codegolf.stackexchange.com/a/119530/21173)
 - numlen.act: Print the number of digits in the absolute value of a given integer.
+- length-quine.act: [Print something of the same length the code has](https://codegolf.stackexchange.com/a/121386/21173)
