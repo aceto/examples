@@ -18,4 +18,5 @@ Aceto code examples. Pull requests welcome!
 - numlen.act: Print the number of digits in the absolute value of a given integer.
 - length-quine.act: [Print something of the same length the code has](https://codegolf.stackexchange.com/a/121386/21173)
 - infinrand.act [Prints an infinite sequence of random-ish, non-repeating numbers](https://codegolf.stackexchange.com/a/121960/21173)
-- semihash.act [An interpreter for the language ;#](https://codegolf.stackexchange.com/a/121990/21173)
+- semihash-iterpreter.act [An interpreter for the language ;#](https://codegolf.stackexchange.com/a/121990/21173)
+- semihash-iterpreter.act [A transpiler for the language ;#](https://codegolf.stackexchange.com/a/122182/21173)
