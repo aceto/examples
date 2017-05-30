@@ -21,3 +21,5 @@ Aceto code examples. Pull requests welcome!
 - semihash-iterpreter.act [An interpreter for the language ;#](https://codegolf.stackexchange.com/a/121990/21173)
 - semihash-iterpreter.act [A transpiler for the language ;#](https://codegolf.stackexchange.com/a/122182/21173)
 - commamiddle.act [Who has a comma for a middle name?](https://codegolf.stackexchange.com/a/123351/21173)
+- different-string.act [Same length, different string](https://codegolf.stackexchange.com/a/123591/21173)
+- interleave.act [Interleave numbers from 1 to n, with the same numbers reversed](https://codegolf.stackexchange.com/a/123479/21173)
