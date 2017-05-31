@@ -25,3 +25,5 @@ Aceto code examples. Pull requests welcome!
 - interleave.act [Interleave numbers from 1 to n, with the same numbers reversed](https://codegolf.stackexchange.com/a/123479/21173)
 - randomize-scalars.act [Randomize the scalars of an array](https://codegolf.stackexchange.com/a/123634/21173)
 - be-the-first-one.act [Be the First 1 (leave only the first Truthy)](https://codegolf.stackexchange.com/a/119487/21173)
+- print-invisible.act [Print invisible text](https://codegolf.stackexchange.com/a/123594/21173)
+- printables.act [Print the missing characters](https://codegolf.stackexchange.com/a/123770/21173)
