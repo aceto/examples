@@ -27,3 +27,4 @@ Aceto code examples. Pull requests welcome!
 - be-the-first-one.act [Be the First 1 (leave only the first Truthy)](https://codegolf.stackexchange.com/a/119487/21173)
 - print-invisible.act [Print invisible text](https://codegolf.stackexchange.com/a/123594/21173)
 - printables.act [Print the missing characters](https://codegolf.stackexchange.com/a/123770/21173)
+- unreliable-gun.act [Unreliable gun](https://codegolf.stackexchange.com/a/123948/21173)
