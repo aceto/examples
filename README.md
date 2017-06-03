@@ -28,3 +28,4 @@ Aceto code examples. Pull requests welcome!
 - print-invisible.act [Print invisible text](https://codegolf.stackexchange.com/a/123594/21173)
 - printables.act [Print the missing characters](https://codegolf.stackexchange.com/a/123770/21173)
 - unreliable-gun.act [Unreliable gun](https://codegolf.stackexchange.com/a/123948/21173)
+- fizzbuzz1byte.act [A FizzBuzzoid with only 1. Byte. Per. Line.](https://codegolf.stackexchange.com/a/124355/21173)
