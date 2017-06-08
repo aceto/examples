@@ -29,3 +29,4 @@ Aceto code examples. Pull requests welcome!
 - printables.act [Print the missing characters](https://codegolf.stackexchange.com/a/123770/21173)
 - unreliable-gun.act [Unreliable gun](https://codegolf.stackexchange.com/a/123948/21173)
 - fizzbuzz1byte.act [A FizzBuzzoid with only 1. Byte. Per. Line.](https://codegolf.stackexchange.com/a/124355/21173)
+- alphadia.act [Print the alphabet diagonally](https://codegolf.stackexchange.com/a/125240/21173)
