@@ -31,3 +31,4 @@ Aceto code examples. Pull requests welcome!
 - fizzbuzz1byte.act [A FizzBuzzoid with only 1. Byte. Per. Line.](https://codegolf.stackexchange.com/a/124355/21173)
 - alphadia.act [Print the alphabet diagonally](https://codegolf.stackexchange.com/a/125240/21173)
 - multistring.act ["Multiply" two strings](https://codegolf.stackexchange.com/a/125629/21173)
+- haskell.act [Sugar Free Syntax](https://codegolf.stackexchange.com/a/126469/21173)
