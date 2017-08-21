@@ -32,3 +32,6 @@ Aceto code examples. Pull requests welcome!
 - alphadia.act [Print the alphabet diagonally](https://codegolf.stackexchange.com/a/125240/21173)
 - multistring.act ["Multiply" two strings](https://codegolf.stackexchange.com/a/125629/21173)
 - haskell.act [Sugar Free Syntax](https://codegolf.stackexchange.com/a/126469/21173)
+- undorange.act [Undo a range](https://codegolf.stackexchange.com/a/139860/21173)
+- password.act [Read a password](https://codegolf.stackexchange.com/a/125637/21173)
+- makesquare.act [Square and Square](https://codegolf.stackexchange.com/a/139874/21173)
