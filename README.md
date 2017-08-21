@@ -1,6 +1,7 @@
 Aceto code examples. Pull requests welcome!
 
 - collatz.act: Takes a number and returns [the amount of steps it takes to reach one](https://codegolf.stackexchange.com/a/120204/21173) (Collatz conjecture)
+- collatz2.act: Alternative (hand-crafted) implementation of the Collatz conjecture from (http://github.com/daherb/collatz)
 - box.act: Takes a character and prints [a 3x3 box consisting of it](https://codegolf.stackexchange.com/questions/120052/try-to-make-a-square/120106#120106)
 - raise.act: Raises a number to its own power, [without using exponentiation builtins](https://codegolf.stackexchange.com/a/120055/21173)
 - shuffleinfinite.act: [Shuffles an infinite stream of lines](https://codegolf.stackexchange.com/a/120591/21173)
