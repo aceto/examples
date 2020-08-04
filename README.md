@@ -10,6 +10,7 @@ Aceto code examples. Pull requests welcome!
 - bethefirstone.act: Given a boolean list, [turn off all true values after the first one](https://codegolf.stackexchange.com/a/119487/21173)
 - accusum.act: Calculate a sum of an arbitrary amount of parts
 - allyourbase.act: Print "All your base are belong to us"
+- quine.act: Quine
 - dollar.act: Identify ["dollar words"](https://codegolf.stackexchange.com/a/116988/21173)
 - easter.act: Print an [easter egg](https://codegolf.stackexchange.com/a/116971/21173) given a character.
 - helloworld.act: Print "Hello World!" without using any literals
