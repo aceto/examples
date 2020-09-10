@@ -38,3 +38,4 @@ Aceto code examples. Pull requests welcome!
 - password.act [Read a password](https://codegolf.stackexchange.com/a/125637/21173)
 - makesquare.act [Square and Square](https://codegolf.stackexchange.com/a/139874/21173)
 - divisiblestrings.act [Divisible Strings](https://codegolf.stackexchange.com/a/210872/21173)
+- fib.act: Print the nth Fibonacci number
