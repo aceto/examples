@@ -37,3 +37,4 @@ Aceto code examples. Pull requests welcome!
 - undorange.act [Undo a range](https://codegolf.stackexchange.com/a/139860/21173)
 - password.act [Read a password](https://codegolf.stackexchange.com/a/125637/21173)
 - makesquare.act [Square and Square](https://codegolf.stackexchange.com/a/139874/21173)
+- divisiblestrings.act [Divisible Strings](https://codegolf.stackexchange.com/a/210872/21173)
